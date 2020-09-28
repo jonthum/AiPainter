@@ -1,0 +1,1 @@
+{'host_name': 'localhost', 'start_time': '2020-09-12 13:16:31.530440', 'task_name': 'root-00002-stylegan2-all_part1-1gpu-config-f'}

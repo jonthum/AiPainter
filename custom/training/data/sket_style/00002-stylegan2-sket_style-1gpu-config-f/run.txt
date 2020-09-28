@@ -1,0 +1,1 @@
+{'host_name': 'localhost', 'start_time': '2020-09-11 09:59:52.342377', 'task_name': 'root-00000-stylegan2-sket_style-1gpu-config-f'}
