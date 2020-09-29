@@ -89,6 +89,7 @@ MSc AI Project by Jon Thum.
 	•	Runnable code.
 	•	Training.ipynb programs: training scripts for all models created for project. Automatically downloads datasets and latest models from my google drive. 
 	•	Data directory: area where models are saved if the training scripts are run (currently no models are stored due to large sizes 364mb). Contains metrics and associated logs for all models referenced by report.
+	•	Please note: The larger datasets > 10k images (All_part1, All_part2, Impr_style) require Colab Pro subscription for extra disk space.
 
 ### DATA PREP (custom/dataprep)
 
